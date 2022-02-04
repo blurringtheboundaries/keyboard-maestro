@@ -1,7 +1,7 @@
 # keyboard-maestro
 Uploading some macros from our learning experiences with Keyboard Maestro.
 
-Thanks to Jason Dasent for introducing us to this software.  This is a bit of an experimental repo for the time being, so there won't be much instructions!
+Thanks to Jason Dasent for introducing us to this software.  This is a bit of an experimental repo, so there won't be many instructions for the time being!
 
 Our first macro provides a shortcut to changing the VoiceOver output back to the system default at the end of a Zoom call.
 
