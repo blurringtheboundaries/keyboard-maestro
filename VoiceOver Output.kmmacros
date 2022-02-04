@@ -101,18 +101,16 @@
 						<string>Front</string>
 					</dict>
 					<dict>
-						<key>KeyCode</key>
-						<integer>46</integer>
+						<key>Action</key>
+						<string>ByTyping</string>
 						<key>MacroActionType</key>
-						<string>SimulateKeystroke</string>
-						<key>Modifiers</key>
-						<integer>512</integer>
-						<key>ReleaseAll</key>
-						<false/>
+						<string>InsertText</string>
 						<key>TargetApplication</key>
 						<dict/>
 						<key>TargetingType</key>
 						<string>Front</string>
+						<key>Text</key>
+						<string>System default</string>
 					</dict>
 					<dict>
 						<key>KeyCode</key>
@@ -129,6 +127,14 @@
 						<string>Front</string>
 					</dict>
 					<dict>
+						<key>MacroActionType</key>
+						<string>Pause</string>
+						<key>Time</key>
+						<string>0.3</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+					</dict>
+					<dict>
 						<key>ButtonName</key>
 						<string>Confirm</string>
 						<key>MacroActionType</key>
@@ -138,7 +144,7 @@
 				<key>CreationDate</key>
 				<real>665680132.58447599</real>
 				<key>ModificationDate</key>
-				<real>665698023.67872298</real>
+				<real>665699088.007743</real>
 				<key>Name</key>
 				<string>VoiceOver Output</string>
 				<key>Triggers</key>
